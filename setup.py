@@ -121,7 +121,6 @@ setup(name='stable_baselines',
           'scipy',
           'joblib',
           'cloudpickle>=0.5.5',
-          'opencv-python',
           'numpy',
           'pandas',
           'matplotlib'
